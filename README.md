@@ -27,9 +27,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-
+## Hotel Reservation List
 ![Alt Text](screenshots/Reservation_list.png)
 
-![Alt Text](screenshots/Form_Validations.png)
-
+## Reservation Form View
 ![Alt Text](screenshots/Form_view.png)
+
+## Reservation Form Validations
+![Alt Text](screenshots/Form_Validations.png)
